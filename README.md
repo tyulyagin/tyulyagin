@@ -16,7 +16,7 @@ Currently, I am actively looking for a job and considering offers.
 - [Certificates](https://github.com/klassnenkiy/Certificates)
 
 Contacts  
-- Telegram: https://t.me/tyulyagins  
+- Telegram: https://t.me/qafntw  
 - E-mail: klassnenkiy@gmail.com  
 
 # Python Developer Projects
