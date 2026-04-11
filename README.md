@@ -19,46 +19,7 @@ Contacts
 - Telegram: https://t.me/qafntw  
 - E-mail: klassnenkiy@gmail.com  
 
-# Python Developer Projects
 
-* [Foodgram - web 2.0 app for publishing cooking recipes](https://github.com/klassnenkiy/foodgram-project-react)
-
-* [YaMDb project - collects user reviews on various works, movies, and music](https://github.com/klassnenkiy/api_yamdb)
-
-* [Kittygram - social network for cat lovers](https://github.com/klassnenkiy/kittygram_final)
-
-* [Yatube - social network](https://github.com/klassnenkiy/hw05_final)
-
-* [Rest-api for Yatube](https://github.com/klassnenkiy/api_final_yatube)
-
-* [Telegram bot](https://github.com/klassnenkiy/homework_bot)
-
-* [Taski docker - app for planning tasks](https://github.com/klassnenkiy/taski-docker)
-
-# Data Analyst Projects
-
-| **Title** | **Description** | **Tools** |  **Keywords**  |
-| :------------------- | :---------------------- | :---------------------- | :------ |
-| [Comparison of music preferences](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p1_yandex_music) | Comparison of music preferences between Moscow and St. Petersburg residents based on Yandex.Music data. | `numpy` `pandas` | EDA, analysis |
-| [Bank loan reliability analysis](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p2_data_preprocessing) | Data processing and analysis to identify factors influencing a bank client’s solvency. | `pandas` `numpy` `matplotlib` | EDA, analysis |
-| [Real estate market analysis](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p3_real_estate) | Analyzing data and identifying factors affecting apartment prices. | `numpy` `pandas` `matplotlib` | EDA, analysis, feature engineering |
-| [Telecom tariff profitability analysis](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p6_telecom) | Determining the most profitable telecom tariff based on customer usage data. Hypotheses were tested. | `numpy` `pandas` `matplotlib`  `scipy` | EDA, analysis, hypothesis testing, ttest |
-| [Video game market analysis](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p5_games) | Determining the factors influencing the successful sale of a game. | `pandas` `matplotlib` `scipy` | EDA, statistics, hypothesis testing, ttest |
-
-# Data Science Projects
-
-| Title | Description | Tools |  Keywords  |
-| :------------------- | :---------------------- | :---------------------- | :------ |
-| [Mobile tariff recommendation](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p4_stat_analysis) | Creating a classification model to recommend the appropriate mobile operator tariff. | `pandas` `matplotlib` `sklearn`  `statsmodels` | Time Series, regression, classification |
-| [Bank customer churn prediction](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p7_bank_churn) | Building a model to predict customer churn based on client behavior data. The goal is to reduce costs on client retention. | `numpy` `pandas` `matplotlib` `sklearn` `StandardScaler` | EDA, analysis, feature engineering, ROC-AUC, upsampling, unbalanced classification |
-| [Oil rig profit prediction](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p8_oil_rigs) | Creating a model to predict the profit from oil rigs. Based on the forecast, determining the best drilling region. | `numpy` `pandas` `matplotlib` `sklearn` | EDA, analysis, regression, ROC-AUC |
-| [Gold recovery prediction from ore](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p9_gold) | Creating a model to predict the gold recovery coefficient from gold-containing ore. | `pandas` `matplotlib` `sklearn` `CatBoost` `Optuna` `GridSearch` | EDA, regression, gradient boosting |
-| [Protecting personal data of an insurance company's clients](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p10_insurance) | Protecting personal data of insurance clients. Developing a method to transform data so that the original information is hard to recover while maintaining the quality of linear regression. | `pandas` `numpy` `Random` `numpy`  | EDA, regression |
-| [Car price prediction model](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p11_car_prices) | Creating a recommendation system for car pricing based on its description. | `pandas` `matplotlib` `sklearn` `lightgbm` | EDA, regression, gradient boosting |
-| [Taxi order prediction](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p12_time_series) | Predicting the number of taxi orders for the next hour to attract more drivers during peak times. | `pandas` `matplotlib` `CatBoost` `Prophet`  | Time Series, regression, gradient boosting |
-| [NLP. Sentiment analysis of text](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p13_texts) | Predicting positive and negative comments from online store users. | `numpy` `sklearn` `spacy` `torch` `BERT` | NLP, TF-IDF, classification |
-| [CV. Customer age prediction](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p14_cv) | Creating a neural network model to predict a person's age based on a photo. | `tensorflow` `keras` `ImageDataGenerator` `ResNet` | CV, neural network, classification |
-| [Telecom churn prediction](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_diploma_project) | Building a model to predict whether a user will leave a telecom service. | `Pipeline` `phik` `Catboost` `XGBoost` `sklearn` | EDA, classification |
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
