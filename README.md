@@ -2,15 +2,10 @@
 ![](https://komarev.com/ghpvc/?username=klassnenkiy&style=plastic&label=profile+views&color=orange)
 
 Hello!  
-My name is Stanislav Tyulyagin, I am a ML Engineer and Python Developer. AI master's student at HSE '26.
+My name is Stanislav Tyulyagin, I am a Ai Engineer. AI master's student at HSE '26.
 
 In the [Data_Sciense_Portfolio](https://github.com/klassnenkiy/Data_Sciense_Portfolio) repository, you can explore my projects in the fields of DS and DA.  
 In the [Python-developer](https://github.com/stars/klassnenkiy/lists/python-developer) list, you can find and examine my Python development projects in more detail.
-
-In 2022, I completed the Data Scientist course at Yandex.Practicum, as well as the Deep Learning School course from MIPT. In July 2023, I finished the Python-backend course at Yandex.Practicum. I enjoy challenging tasks, am eager to learn new things, and can work both in a team and independently. I am self-organized, goal-oriented, meet deadlines, and can work remotely for extended periods without compromising productivity.
-
-I enjoy analyzing and finding non-obvious patterns. I plan to continue developing and working in this field to make the world better through machine learning and Python development.  
-Currently, I am actively looking for a job and considering offers.
 
 - [Resume](https://github.com/klassnenkiy/klassnenkiy/blob/main/Tyulyagin_Stanislav_Resume_ru.pdf) ([en](https://github.com/klassnenkiy/klassnenkiy/blob/main/Tyulyagin_Stanislav_Resume.pdf))
 - [Certificates](https://github.com/klassnenkiy/Certificates)
